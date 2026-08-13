@@ -1,17 +1,1 @@
-[
-    {
-        "id": "1",
-        "platform": "demo",
-        "message": "Welcome to our Social Media Automation project!",
-        "scheduled_time": "2026-08-13 19:55",
-        "status": "published",
-        "published_at": "2026-08-13 19:55"
-    },
-    {
-        "id": 2,
-        "platform": "demo",
-        "message": "Hello! This is my first automated social media post.",
-        "scheduled_time": "2026-08-13 20:30",
-        "status": "published"
-    }
-]
+[]
